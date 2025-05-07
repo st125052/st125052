@@ -70,7 +70,7 @@ Yes, I’ve done it. My latest projects connect:
 
 ## 📫 Let’s Connect
 
-- 🌐 [Portfolio Website](https://swarajbhanja.com)  
+- 🌐 [Portfolio Website](https://www.swarajbhanja.com)  
 - 📧 [Email](mailto:swarajbhanja607@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/swarajbhanja)  
 - 🐙 [GitHub](https://github.com/malcolm123ssj)  
